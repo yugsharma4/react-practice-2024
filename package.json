@@ -1,0 +1,23 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "keywords": [],
+  "author": "Yug Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.4.41",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.9"
+  }
+}
